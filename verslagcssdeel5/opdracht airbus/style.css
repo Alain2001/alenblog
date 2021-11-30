@@ -1,0 +1,26 @@
+article {
+    margin: 10px 10px 10px 10px;
+    font-size: 1.25em;
+    display: block;
+    width: 40%;
+    border: black solid 1px;
+    height: 260px;
+}
+
+img , h2, p{
+    margin: 10px 10px 10px 10px;
+}
+
+.oneven img {
+    float: right;
+
+}
+
+.even img {
+    float: left;
+}
+
+
+
+
+
