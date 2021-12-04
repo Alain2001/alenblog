@@ -1,0 +1,19 @@
+.row>div:nth-child(even) {
+    background-color: cadetblue
+}
+
+.row>div:nth-child(odd) {
+    background-color: grey;
+
+}
+
+
+
+
+p {
+    text-align: center;
+}
+
+.row {
+    height: 100px;
+}
